@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component
+link: https://giih06.github.io/QR-CODE/
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
