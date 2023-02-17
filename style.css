@@ -6,16 +6,17 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+:root {
+    --white: #FFFFFF;
+    --grey: lightgrey;
+    --black: black;
+    --lightblue: #D5E1EF;
+}
+
 body {
-    background-color: rgba(163, 224, 224, 0.559);
+    background-color: var(--lightblue);
 }
 
-div > img {
-    border-radius: 20px;
-    display: flex;
-
-}
-
-div > h1, p {
-    background-color: white;
+#card {
+    background-color: var(--white);
 }
